@@ -1,0 +1,40 @@
+.wrapper{
+    width:800px;
+    margin: 0 auto;
+}
+
+.transition
+.transform
+.animation{
+    border:1px solid #999;
+    margin:20px 0;
+    padding: 0;
+
+}
+
+.box{
+    width:200px;
+    height:200px;
+
+}
+
+.b1{
+    background-color: #80e1d4;
+}
+
+.b2{
+    background-color:#9696ff;
+
+}
+
+.b3{
+    Background-color:#85e1f4;
+}
+
+.b5{
+    background-color: #AAD9B9;
+}
+
+.tansition .b1{
+    transition:width:100ms ease-in-out;
+}
